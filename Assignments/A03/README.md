@@ -30,3 +30,7 @@ Now do the same for [ciphertext_2.txt](ciphertext_2.txt) and substitute again ba
 >NOTE: 
 >   It will be really easy to find online tools to decrypt almost all of the ciphers we are going to implement early in the semester. I would encourage you to use them as a "work checking" tool, and not a "do the work for me" tool. 
 >   Your grade will be highly dependent on the work you portray in your README file. 
+
+### Resources
+- I used the following website python syntax.
+<https://www.kite.com/python/answers/how-to-replace-characters-in-a-string-in-python#:~:text=replace()%20to%20replace%20characters,character%20anywhere%20in%20the%20string.>
